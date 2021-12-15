@@ -3,10 +3,12 @@
 ### Student Name: <YOUR-NAME>
 
 ### คำสั่ง
-จงเขียนโปรแกรมจาวาที่แสดงข้อความ Hello, Fund2! ออกทาง Standard Output
-* ให้บันทึกโปรแกรมเป็นไฟล์นามสกุล .java ชื่อ Practice01.java ไว้ในโฟลเดอร์ชื่อ src เท่านั้น
+จงเขียนโปรแกรมจาวาที่รับชื่อของผู้ใช้งานทาง Standard input และแสดงข้อความทักทาย ทาง Standard output. 
+
+* ให้บันทึกโปรแกรมเป็นไฟล์นามสกุล .java ชื่อ Practice02.java ไว้ในโฟลเดอร์ชื่อ src เท่านั้น
 * ตัวอย่างการรันโปรแกรม
 ```
-> java -cp src Practice01
-Hello, Fund2!
+> java -cp src Practice02
+Hello, What is your name ? Ann
+Nice to meet you, Ann!
 ```
