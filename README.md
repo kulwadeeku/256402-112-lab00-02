@@ -9,6 +9,6 @@
 * ตัวอย่างการรันโปรแกรม
 ```
 > java -cp src Practice02
-Hello, What is your name ? Ann
+Ann
 Nice to meet you, Ann!
 ```
